@@ -1,4 +1,4 @@
-!DOCFILE HMTML!
+<!DOCFILE HTML>
 <html>
 <body>
 	<p>google-homepage</p>
